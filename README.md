@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 <h3 align="center">Passionate about Problem Solving and a Full Stack Web Developer</h3>
 
-<img align="right" alt="Coder GIF" width="480" height="300"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" width="400" height="300"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌱 Improving my **Coding Skills** and working on **Web Development**
 - 📫 How to reach me: **amit.yd525@gmail.com**
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,mui,svelte" />
 </a>
 
-<img align="right" alt="Coder GIF" width="480" height="360"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<img align="right" alt="Coder GIF" width="400" height="360"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
